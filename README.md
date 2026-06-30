@@ -6,7 +6,7 @@ windows{
 'tested': False  
 'type': 11}  
 linux{  
-'tested': False  
+'tested': True  
 'type': Debian  
 }  
 macos: will not be tested until added to collection
