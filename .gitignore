@@ -1,0 +1,18 @@
+# Local Python Sandbox Installation
+python_env/
+
+# Python Runtime Debris
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Operating System Metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
