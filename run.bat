@@ -9,5 +9,5 @@ curl -Lo p.zip https://python.org
 tar -xf p.zip -C "%P%" & del p.zip
 echo import site >> "%P%\python313._pth"
 :run
-"%P%\python.exe" clean.py %*
-pause
+ "%P%\python.exe" clean.py %*
+ pause
